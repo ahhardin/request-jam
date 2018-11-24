@@ -1,17 +1,17 @@
 /frontend/node_modules
 /backend/ENV
 
-venv/
+/backend/venv/
 
-*.pyc
-__pycache__/
+/backend/*.pyc
+/backend/__pycache__/
 
-instance/
+/backend/instance/
 
-.pytest_cache/
-.coverage
-htmlcov/
+/backend/.pytest_cache/
+/backend/.coverage
+/backend/htmlcov/
 
-dist/
-build/
-*.egg-info/
+/backend/dist/
+/backend/build/
+/backend/*.egg-info/
